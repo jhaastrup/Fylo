@@ -122,8 +122,6 @@ position: static;
 
 }
 
-
-
 .main-content h3{
 	text-align:center;
 
@@ -188,6 +186,7 @@ float: left;
 margin-left:10px;
 margin-top: 30px;
 box-shadow: 2px 2px rgba(0, 0, 1, 0.2);
+padding: 10px;
 }
 
 
@@ -200,7 +199,7 @@ box-shadow: 2px 2px rgba(0, 0, 1, 0.2);
   margin-top: 30px;
   box-shadow: 2px 2px rgba(0, 0, 1, 0.2);
   transform: translateY(-20px);
-
+padding: 10px;
 }
 
 .app-info h2{
